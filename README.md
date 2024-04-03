@@ -2,7 +2,7 @@
 
 Welcome to my area on Github. 
 
-My name is Daron Jones, however you may find me online by the name Wuntenn (pronounced👂🏾 "one-ten"). One-ten or The First of October in the UK is my birthdate and coicidentally Nigerian independence day! 
+My name is Daron Jones, however you may find me online by the name Wuntenn (pronounced👂🏾 "one-ten"). One-ten or The First of October in the UK is my birthdate and coicidentally Nigerian Independence Day! 
 
 There isn't much here to show by the way of personal code stammples. I guess I'm an introvert coder (most of my projects are private! 😅).
 
