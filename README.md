@@ -2,9 +2,9 @@
 
 Welcome to my area on Github. 
 
-I'm an introvert coder (Most of my projects are private! 😅) I use this area mainly to host company tests! 🙈
+I'm an introvert coder (most of my projects are private! 😅) I use this area mainly to host company tests! 🙈
 
-If you came here looking for projects, my LinkedIn profile "projects" section lists a number of projects and includes some videos: [https://www.linkedin.com/in/daronjones](https://www.linkedin.com/in/daronjones)
+In you came here looking for projects, my LinkedIn profile "projects" section lists a number of projects and includes some videos: [https://www.linkedin.com/in/daronjones](https://www.linkedin.com/in/daronjones)
 <!--
 **Wuntenn/Wuntenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
