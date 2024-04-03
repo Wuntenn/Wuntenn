@@ -9,7 +9,11 @@ There isn't much here to show by the way of personal code stammples. I guess I'm
 There is quite a few project listed publicly here that are tests done for interview. These should give an indidation of the way that I code. There are samples mostly in JavaScript based tech, however I am able to
 code in C++ and similar languages. You can find my CV over at my website linked below.
 
-In you came here looking for projects, my LinkedIn profile "projects" section lists a number of projects and includes some videos: [https://www.linkedin.com/in/daronjones](https://www.linkedin.com/in/daronjones)
+In you came here looking for projects, I feature a number of them on my LinkedIn account under the projects section:
+
+💼 My LinkedIn: [link](https://www.linkedin.com/in/daronjones)
+
+
 
 Other places I lurk online:
 
