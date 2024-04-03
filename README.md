@@ -4,7 +4,7 @@ Welcome to my area on Github.
 
 My name is Daron Jones, however you may find me online by the name Wuntenn (pronounced👂🏾 "one-ten"). One-ten or The First of October in the UK is my birthdate and coicidentally Nigerian Independence Day! 
 
-There isn't much here to show by the way of personal code stammples. I guess I'm an introvert coder (most of my projects are private! 😅).
+There isn't much here to show by the way of personal code samples. I guess I'm an introvert coder (most of my projects are private! 😅).
 
 There is quite a few project listed publicly here that are tests done for interview. These should give an indidation of the way that I code. There are samples mostly in JavaScript based tech, however I am able to
 code in C++ and similar languages. You can find my CV over at my website linked below.
