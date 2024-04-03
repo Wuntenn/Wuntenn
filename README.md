@@ -15,10 +15,11 @@ In you came here looking for projects, I feature a number of them on my LinkedIn
 ### My LinkedIn
 
 💼 Profile: [link](https://www.linkedin.com/in/daronjones/)
+
 📂 Projects: [link](https://www.linkedin.com/in/daronjones/details/projects/)
 
 
-### Other places I lurk online: 
+### Other sites and accounts: 
 
 👨🏾‍💻 My Website: [link](https://www.linkedin.com/in/daronjones)
 
