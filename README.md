@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my area on Github. My name is Daron Jones, however you may find me online by the name Wuntenn (pronounced "one-ten": my birthdate 1st October!). 
+Welcome to my area on Github. My name is Daron Jones, however you may find me online by the name Wuntenn (pronounced "one-ten" which is my birthdate: The 1st Octobe - Shh!). 
 
 There isn't much here to show by the way of personal code stammples. I guess I'm an introvert coder (most of my projects are private! 😅).
 
