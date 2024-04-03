@@ -6,8 +6,8 @@ My name is Daron Jones, however you may find me online by the name Wuntenn (pron
 
 There isn't much here to show by the way of personal code samples. I guess I'm an introvert coder (most of my projects are private! 😅).
 
-There is quite a few project listed publicly here that are tests done for interview. These should give an indidation of the way that I code. There are samples mostly in JavaScript based tech, however I am able to
-code in C++ and similar languages. You can find my CV over at my website linked below.
+There are quite a few projects listed publicly here that are tests done for interview purposes. These should be useful to give an indidation of the way that I code. There are samples mostly in JavaScript based tech, however I am able to
+code in C++ and similar languages so you may see other languages around here also. You can find my CV over at my website linked below.
 
 In you came here looking for projects, I feature a number of them on my LinkedIn account under the projects section:
 
