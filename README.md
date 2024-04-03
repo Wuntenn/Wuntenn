@@ -12,10 +12,10 @@ code in C++ and similar languages. You can find my CV over at my website linked 
 In you came here looking for projects, I feature a number of them on my LinkedIn account under the projects section:
 
 
-### My Projects
-💼 My LinkedIn: [link](https://www.linkedin.com/in/daronjones/projects)
+### My LinkedIn
 
-
+💼 Profile: [link](https://www.linkedin.com/in/daronjones/)
+📂 Projects: [link](https://www.linkedin.com/in/daronjones/details/projects/)
 
 
 ### Other places I lurk online: 
