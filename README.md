@@ -31,7 +31,7 @@ In you came here looking for projects, I feature a number of them on my LinkedIn
 
 🧘🏿 When I'm not online I try to work on offline-CICD!
 
-Thanks for popping by - Say "Hi!" if you see me in your corner of the net!
+Thanks for popping by - Say Hi if you see me in your corner of the net!
 
 Wuntenn (aka Daron)
 
