@@ -23,13 +23,13 @@ In you came here looking for projects, I feature a number of them on my LinkedIn
 
 👨🏾‍💻 My Website: [link](https://www.daronjones.com)
 
-👾 Stack Overflow: [link](https://stackoverflow.com/users/1054919/daron-jones)
+👾 Stack Overflow: [link](https://stackoverflow.com/users/1054919/daron-jones) - Sorry I don't contribute as much as I should...
 
-🎹 Soundcloud: [link](https://soundcloud.com/wuntenn)
+🎹 Soundcloud: [link](https://soundcloud.com/wuntenn) - I'm currently seeking musical inspiration and in a phase of re-charging! Be scared!! 😱
 
 📚 I'm currently learing AWS Amplify and CISSP
 
-🧘🏿 When I'm not online I try to work on offline-CICD!
+🧘🏿 I'm a firm believer in an alternate style of offline-CICD otherwise known as meditation! I try to maintain a daily practice and have found it to be one of the biggest improvements in my life!
 
 Thanks for popping by - Say Hi if you see me in your corner of the net!
 
