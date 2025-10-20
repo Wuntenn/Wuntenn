@@ -21,7 +21,7 @@ In you came here looking for projects, I feature a number of them on my LinkedIn
 
 ### Other sites and accounts: 
 
-👨🏾‍💻 My Website: [link](https://www.linkedin.com/in/daronjones)
+👨🏾‍💻 My Website: [link](https://www.daronjones.com)
 
 👾 Stack Overflow: [link](https://stackoverflow.com/users/1054919/daron-jones)
 
